@@ -5,7 +5,7 @@ import pdfplumber
 import openai
 
 # Load OpenAI API key from environment variable
-openai.api_key = "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"
+openai.api_key = "sk-svcacct-BhGNlO3Qix0rfZLhLmPnOJuGryKYr5P1Xsv2M-6bIskAro3T3BlbkFJIr9VD91YYXreDRElS3QH8VhEHp3DjsMOwHmy215iZaxiaAA"
 
 # Define default PDF paths
 pdf_paths = [
